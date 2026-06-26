@@ -151,7 +151,7 @@ bool Player::dijkstra(int y, int x)
 			}
 			return true;
 		}
-	
+	dsafdsfdsa
 		for (Pos dir : dirs)
 		{
 			int nx = current.x + dir.x;
