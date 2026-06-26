@@ -11,7 +11,7 @@ void Player::Update()
 	if (_pathIndex < _path.size())
 	{
 		_pos = _path[_pathIndex];
-
+tt
 		// 한단계 이동
 		++_pathIndex;
 	}
